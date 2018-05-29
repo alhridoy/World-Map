@@ -1,0 +1,21 @@
+/*Custom style*/
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+ }
+ html, body {
+  min-height: 100%;
+}
+body {
+
+  font-size: 15px;
+  line-height: 30px;
+  font-style: normal;
+  font-weight: 300;
+  overflow-x: hidden;
+      color: #666666;
+    font-family: "OpenSans", sans-serif;
+}
